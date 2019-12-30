@@ -7,5 +7,6 @@ public class MainClass01 {
 		System.out.println("lab1 브렌치에서 작업함");
 		System.out.println("lab1 브렌치에서 작업함2");
 		System.out.println("master 브렌치 hello~");
+		System.out.println("lab1 브렌치에서 hello~");
 	}
 }
